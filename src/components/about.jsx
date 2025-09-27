@@ -118,6 +118,7 @@ const About = () => {
           value to users. I strive to create work that is not only visually
           appealing but also functional and user-friendly. My goal is to deliver
           solutions that solve real problems and provide value to users.
+          
         </p>
       </div>
 
